@@ -1,5 +1,3 @@
-#Sentiment Analyzer 
-
 A Python Tkinter GUI Sentiment Analysis tool using VADER model.
 
 Hutto, Clayton, and Eric Gilbert. "Vader: A parsimonious rule-based model for sentiment analysis of social media text." 
