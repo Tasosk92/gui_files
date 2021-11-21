@@ -1,2 +1,2 @@
 # gui_files
-GUI projects 
+A collection of various GUI projects using popular Python libraries
