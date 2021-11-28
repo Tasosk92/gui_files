@@ -1,4 +1,4 @@
-## Weather app using OpenWeatherMap API.
+## Weather app using OpenWeatherMap API
 
 ##### The app provides the current weather of a particular city chosen by the user.
 
