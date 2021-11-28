@@ -2,7 +2,7 @@
 
 ##### The app provides the current weather of a particular city chosen by the user.
 
-####### How to create API key
+###### How to create API key
 
 1. Login or register in the Open Weather Map.
 2. Go to the API section. In the Current Weather Data section click on the API doc.
